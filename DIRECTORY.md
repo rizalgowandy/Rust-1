@@ -27,6 +27,7 @@
     * [Knapsack](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/knapsack.rs)
     * [Longest Common Subsequence](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/longest_common_subsequence.rs)
     * [Longest Continuous Increasing Subsequence](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/longest_continuous_increasing_subsequence.rs)
+    * [Longest Increasing Subsequence](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/longest_increasing_subsequence.rs)
     * [Maximum Subarray](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/maximum_subarray.rs)
     * [Rod Cutting](https://github.com/TheAlgorithms/Rust/blob/master/src/dynamic_programming/rod_cutting.rs)
   * General
@@ -34,14 +35,15 @@
     * [Hanoi](https://github.com/TheAlgorithms/Rust/blob/master/src/general/hanoi.rs)
     * [Kmeans](https://github.com/TheAlgorithms/Rust/blob/master/src/general/kmeans.rs)
     * [Nqueens](https://github.com/TheAlgorithms/Rust/blob/master/src/general/nqueens.rs)
+    * [Two Sum](https://github.com/TheAlgorithms/Rust/blob/master/src/general/two_sum.rs)
   * Geometry
     * [Closest Points](https://github.com/TheAlgorithms/Rust/blob/master/src/geometry/closest_points.rs)
   * Graph
     * [Bellman Ford](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/bellman_ford.rs)
+    * [Depth First Search](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/depth_first_search.rs)
     * [Dijkstra](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/dijkstra.rs)
     * [Minimum Spanning Tree](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/minimum_spanning_tree.rs)
     * [Prim](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/prim.rs)
-    * [Depth First Search (DFS)](https://github.com/TheAlgorithms/Rust/blob/master/src/graph/depth_first_search.rs)
   * [Lib](https://github.com/TheAlgorithms/Rust/blob/master/src/lib.rs)
   * Math
     * [Extended Euclidean Algorithm](https://github.com/TheAlgorithms/Rust/blob/master/src/math/extended_euclidean_algorithm.rs)
