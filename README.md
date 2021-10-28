@@ -27,12 +27,13 @@ RESTART BUILD
 - [x] [Dijkstra](./src/graph/dijkstra.rs)
 - [x] [Kruskal's Minimum Spanning Tree](./src/graph/minimum_spanning_tree.rs)
 - [x] [Prim's Minimum Spanning Tree](./src/graph/prim.rs)
-- [ ] BFS
+- [x] [Breadth-First Search (BFS)](./src/graph/breadth_first_search.rs)
 - [x] [Depth First Search (DFS)](./src/graph/depth_first_search.rs)
 - [x] [Bellman-Ford](./src/graph/bellman_ford.rs)
 
 ## Math
 - [x] [Extended euclidean algorithm](./src/math/extended_euclidean_algorithm.rs)
+- [x] [Pascal's triangle](./src/math/pascal_triangle.rs)
 
 ## [Dynamic Programming](./src/dynamic_programming)
 
@@ -46,10 +47,12 @@ RESTART BUILD
 - [x] [Rod Cutting](./src/dynamic_programming/rod_cutting.rs)
 - [x] [Egg Dropping Puzzle](./src/dynamic_programming/egg_dropping.rs)
 - [x] [Maximum Subarray](./src/dynamic_programming/maximum_subarray.rs)
+- [x] [Is Subsequence](./src/dynamic_programming/is_subsequence.rs)
+- [x] [Maximal Square](./src/dynamic_programming/maximal_square.rs)
 
 ## [Data Structures](./src/data_structures)
 
-- [x] [Queue](./src/data_stuctures/queue.rs)
+- [x] [Queue](./src/data_structures/queue.rs)
 - [x] [Heap](./src/data_structures/heap.rs)
 - [x] [Linked List](./src/data_structures/linked_list.rs)
 - [x] [Graph](./src/data_structures/graph.rs)
